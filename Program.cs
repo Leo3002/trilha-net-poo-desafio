@@ -1,4 +1,4 @@
-﻿using DesafioPOO.Models;
+﻿using trilha_net_poo_desafio.Models;
 
 //Implementado
 
